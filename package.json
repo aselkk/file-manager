@@ -1,0 +1,19 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aselkk/file-manager.git"
+  },
+  "author": "aselkk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aselkk/file-manager/issues"
+  },
+  "homepage": "https://github.com/aselkk/file-manager#readme"
+}
